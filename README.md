@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on different NLP tasks
-- 🌱 I’m currently learning Spanish
+- 🤖 I’m currently working on different NLP tasks
+- 🇪🇸 I’m currently learning Spanish
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
