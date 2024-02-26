@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🤖 I am currently working on different NLP and ASR tasks at <a href="https://github.com/yandex">@Yandex</a>
+- 🤖 I am currently working on different NLP and ASR tasks.
 - 🤓 I am interested in math and theoretical CS
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
