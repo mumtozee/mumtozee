@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🤖 I am currently working on vision-language modelling at <a href="https://ya.ru">Yandex</a>.
-- 🤓 I am interested in math and theoretical CS
+- 🤖 Currently working on imitation learning, planning and world models.
+- 👨🏿‍💻 Previously worked in YandexVLM pre-training team and built enhanced image-capioning pipeline.
+- 🤓 Interested in math and theoretical CS.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
